@@ -32,7 +32,7 @@ Siga estas instruções para ter uma cópia do projeto rodando na sua máquina l
 
 1.  Clone o repositório para a sua máquina:
     ```bash
-    git clone [https://github.com/seu-usuario/summafy.git](https://github.com/seu-usuario/summafy.git)
+    git clone [https://github.com/briellll/summafy.git](https://github.com/seu-usuario/summafy.git)
     cd summafy
     ```
 
